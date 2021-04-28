@@ -1,6 +1,6 @@
-◦ ft_strlen (man 3 strlen)
-◦ ft_strcpy (man 3 strcpy)
-◦ ft_strcmp (man 3 strcmp)
-◦ ft_write (man 2 write)
-◦ ft_read (man 2 read)
-◦ ft_strdup (man 3 strdup, you can call to malloc)
+◦ ft_strlen (man 3 strlen)\n
+◦ ft_strcpy (man 3 strcpy)\n
+◦ ft_strcmp (man 3 strcmp)\n
+◦ ft_write (man 2 write)\n
+◦ ft_read (man 2 read)\n
+◦ ft_strdup (man 3 strdup, you can call to malloc)\n
