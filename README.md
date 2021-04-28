@@ -1,4 +1,4 @@
-◦ ft_strlen (man 3 strlen)\n
+◦ ft_strlen (man 3 strlen)/n
 ◦ ft_strcpy (man 3 strcpy)\n
 ◦ ft_strcmp (man 3 strcmp)\n
 ◦ ft_write (man 2 write)\n
