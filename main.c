@@ -10,5 +10,6 @@ int main(void)
 	char dst[511];
 	printf("ft_strlen -> %s [len = %zu]\n",str,ft_strlen(str));
 	printf("ft_strcpy -> %s [dst = %s]\n",str,ft_strcpy(dst, str));
+    printf("ft_strcmp -> %s [ASCII = &d]\n",str,ft_strcpy(dst, str));
 	return 0;
 }

@@ -6,7 +6,7 @@ NA = nasm
 CFLAGS = -Wall -Wextra -Werror -I. -c -g
 NFLAGS = -fmacho64 -g
 
-SRC =  ft_strlen.s ft_strcpy.s
+SRC =  ft_strlen.s ft_strcpy.s ft_strcmp.s
 
 OBJ = ${SRC:.s=.o}
 
